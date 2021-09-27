@@ -1,5 +1,5 @@
 # Java学习
 
-[TOC]
+[[TOC]]
 
 ## Java基础
