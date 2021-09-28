@@ -7,7 +7,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "public:github": "bash deploy.sh",
+    "public:gitee": "bash deploy-gitee.sh"
   },
   "devDependencies": {
     "vuepress": "^1.8.2"
